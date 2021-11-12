@@ -12,7 +12,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 to make it easier to control. Once I was done I started to style the elements.
 
 - Built with HTML-CSS
-- [Author](#FrontedMentor)
+- [Author] FrontedMentor
 
 ## Overview
 
