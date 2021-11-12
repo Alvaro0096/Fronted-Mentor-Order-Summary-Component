@@ -1,0 +1,188 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Red Hat Display', sans-serif;
+}
+
+body{
+	background-color: hsl(225, 100%, 94%);
+	background-image: url(images/pattern-background-desktop.svg);
+	background-repeat: no-repeat;
+}
+
+p{
+	font-size: 16px;
+}
+
+.tarjeta{
+	width: 400px;
+	height: auto;
+	margin: 50px auto;
+	background: #fff;
+	border-radius: 20px;
+}
+
+.tarjeta p{
+	display: inline-block;
+}
+
+.hero img{
+	width: 400px;
+	object-fit: cover;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+.titu_descr{
+	text-align: center;
+}
+
+.titu_descr h1{
+	margin-top: 40px;
+	color: hsl(223, 47%, 23%);
+	font-weight: 900;
+}
+
+.titu_descr p{
+	width: 300px;
+	padding-top: 20px;
+	color: hsl(224, 23%, 55%);
+	font-size: 16px;
+}
+
+.plan{
+	width: 330px;
+	height: 90px;
+	overflow: hidden;
+	margin: 20px auto;
+	background-color: hsl(225, 100%, 98%);
+	border-radius: 10px;
+}
+
+.plan img{
+	position: relative;
+	margin: 20px 20px;
+	float: left;
+}
+
+.anual{
+	position: relative;
+	float: left;
+	margin: 20px 0px;
+	font-weight: 900;
+	color: hsl(223, 47%, 23%);
+}
+
+.precio{
+	position: relative;
+	float: left;
+	margin-top: 45px;
+	margin-left: -85px;
+	color: hsl(224, 23%, 55%);
+}
+
+.plan p a{
+	float: right;
+	margin-top: 30px;
+	margin-left: 65px;
+	font-weight: 700;
+	color: hsl(245, 75%, 52%);
+}
+
+.plan a:hover{
+	text-decoration: none;
+	color: hsl(224, 23%, 55%);
+}
+
+.pago{
+	height: 50px;
+	width: 330px;
+	margin: 10px auto;
+	background-color: hsl(245, 75%, 52%);
+	box-shadow: 0px 20px 20px hsl(225, 100%, 94%);
+	text-align: center;
+	border-radius: 10px;
+}
+
+.pago p{
+	margin-top: 15px;
+}
+
+.pago p a{
+	text-decoration: none;
+	color: #fff;
+	font-weight: 500;
+}
+
+.pago:hover{
+	background-color: hsl(224, 23%, 55%);
+}
+
+.cancelar{
+	height: 70px;
+	width: 330px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.cancelar p{
+	margin-top: 15px;
+}
+
+.cancelar p a{
+	text-decoration: none;
+	font-weight: 700;
+	color: hsl(224, 23%, 55%);
+}
+
+.cancelar a:hover{
+	color: hsl(223, 47%, 23%);
+}
+
+/*Style Link*/
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@media all and (max-width: 375px){
+
+body{
+	background-image: url(images/pattern-background-mobile.svg);
+	background-repeat: no-repeat;
+}
+
+.tarjeta{
+	width: 325px;
+	margin: 50px 20px; 
+}
+
+.hero img{
+	width: 325px;
+}
+
+.titu_descr h1{
+	margin-top: 30px;
+}
+
+.titu_descr p{
+	width: 270px;
+}
+
+.plan{
+	width: 290px;
+	height: 90px;
+}
+
+.plan p a{
+	float: right;
+	margin-top: 30px;
+	margin-left: 40px;
+}
+
+.pago{
+	height: 50px;
+	width: 290px;
+}
+
+} 
+
