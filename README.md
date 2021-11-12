@@ -8,7 +8,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - (#The-challenge-is-to-build-out-this-order-summary-card-component-and-get-it-looking-as-close-to-the-design-as-possible.)
   - [Links](https://diplowebutn.000webhostapp.com/Repositorio_Git/order-summary-component-main/index.html)
 - [My process]
-  - [Built with](#HTML-CSS)
+- I beggin separating the elements of HTML on div boxes. Then apply classes to heach one that was necesary
+to make it easier to control. Once I was done I started to style the elements.
+
+- Built with HTML-CSS
 - [Author](#FrontedMentor)
 
 ## Overview
@@ -33,13 +36,7 @@ Users should be able to:
 
 - Solution URL: (https://www.frontendmentor.io/solutions)
 - Live Site URL: (https://diplowebutn.000webhostapp.com/Repositorio_Git/order-summary-component-main/index.html)
-
-## My process
-
-I beggin separating the elements of HTML on div boxes. Then apply classes to heach one that was necesary
-to make it easier to control. Once I was done I started to style the elements.
 	
-
 ### Built with
 
 - Semantic HTML5 markup
