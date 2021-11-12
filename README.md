@@ -21,9 +21,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](order-summary-component-main/Solution_Desktop_1440px.png)
+(order-summary-component-main/Solution_Desktop_1440px.png)
 
-![](order-summary-component-main/Solution_Mobile_375px.png)
+(order-summary-component-main/Solution_Mobile_375px.png)
 
 ### Links
 
