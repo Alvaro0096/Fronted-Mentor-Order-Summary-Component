@@ -21,9 +21,11 @@ Users should be able to:
 
 ### Screenshot
 -Desktop Solution:
+
 ![Solution_Desktop_1440px](https://user-images.githubusercontent.com/86804019/141524945-55dae338-0e58-4616-9cbc-86970b5b104d.png)
 
 -Mobile Solution:
+
 ![Solution_Mobile_375px](https://user-images.githubusercontent.com/86804019/141525023-f2746e9a-dad6-4668-bd24-901150dd9623.png)
 
 
